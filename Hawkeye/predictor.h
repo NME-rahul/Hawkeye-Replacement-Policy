@@ -21,4 +21,4 @@ private:
     std::size_t get_index(uint64_t pc) const;
 };
 
-#endif // PREDICTOR_H
+#endif 
